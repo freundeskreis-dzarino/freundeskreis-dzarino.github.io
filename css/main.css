@@ -212,6 +212,22 @@ h3 {
 	background-image: url(/img/donate_1200.jpg)
 }
 
+.spenden-image {
+	background-image: url(/img/Spenden_1200.jpg)
+}
+
+.tumaini-image {
+	background-image: url(/img/tumaini_1200.jpg)
+}
+
+
+.ElimuKwaWote-image {
+	background-image: url(/img/ElimuKwaWote_1200.jpg)
+}
+
+
+
+
 .tablebanking-image {
 	background-image: url(/img/tablebanking_1200.jpg)
 }
@@ -405,6 +421,18 @@ h1 {
 	.tablebanking-image {
 		background-image: url(/img/tablebanking_600.jpg)
 	}
+	
+	.spenden-image {
+	background-image: url(/img/Spenden_600.jpg)
+	}
+
+	.tumaini-image {
+	background-image: url(/img/tumaini_600.jpg)
+	}
+
+	.ElimuKwaWote-image {
+		background-image: url(/img/ElimuKwaWote_600.jpg)
+	}
 }
 
 @media (max-width:850px) {
@@ -477,6 +505,21 @@ h1 {
 	.tablebanking-image {
 		background-image: url(/img/tablebanking_400.jpg)
 	}
+	
+	.spenden-image {
+	background-image: url(/img/Spenden_400.jpg)
+	}
+
+	.tumaini-image {
+		background-image: url(/img/tumaini_400.jpg)
+	}
+
+
+	.ElimuKwaWote-image {
+		background-image: url(/img/ElimuKwaWote_400.jpg)
+	}
+		
+		
 
 	h2 {
 		font-size: calc(2vw + .8rem)
@@ -505,6 +548,22 @@ h1 {
 	.tablebanking-image {
 		background-image: url(/img/tablebanking_h_1200.jpg)
 	}
+	
+	.spenden-image {
+	background-image: url(/img/Spenden_120.jpg)
+	}
+
+	.tumaini-image {
+		background-image: url(/img/tumaini_1200.jpg)
+	}
+
+
+	.ElimuKwaWote-image {
+		background-image: url(/img/ElimuKwaWote_1200.jpg)
+	}
+	
+	
+	
 }
 
 @media (max-aspect-ratio:7/5) and (max-width:600px) {
@@ -523,6 +582,21 @@ h1 {
 	.tablebanking-image {
 		background-image: url(/img/tablebanking_h_600.jpg)
 	}
+	
+	.spenden-image {
+	background-image: url(/img/Spenden_600.jpg)
+	}
+
+	.tumaini-image {
+		background-image: url(/img/tumaini_600.jpg)
+	}
+
+
+	.ElimuKwaWote-image {
+		background-image: url(/img/ElimuKwaWote_600.jpg)
+	}
+	
+	
 }
 
 @media (max-aspect-ratio:7/5) and (max-width:400px) {
@@ -540,6 +614,21 @@ h1 {
 	.tablebanking-image {
 		background-image: url(/img/tablebanking_h_400.jpg)
 	}
+	
+	.spenden-image {
+	background-image: url(/img/Spenden_400.jpg)
+	}
+
+	.tumaini-image {
+		background-image: url(/img/tumaini_400.jpg)
+	}
+
+
+	.ElimuKwaWote-image {
+		background-image: url(/img/ElimuKwaWote_400.jpg)
+	}
+	
+	
 }
 
 @media (max-aspect-ratio:1/1) {
@@ -571,6 +660,21 @@ h1 {
 	.tablebanking-image {
 		background-image: url(/img/tablebanking_hh_1200.jpg)
 	}
+	
+	.spenden-image {
+	background-image: url(/img/Spenden_1200.jpg)
+	}
+
+	.tumaini-image {
+		background-image: url(/img/tumaini_1200.jpg)
+	}
+
+
+	.ElimuKwaWote-image {
+		background-image: url(/img/ElimuKwaWote_1200.jpg)
+	}
+	
+	
 }
 
 @media (max-aspect-ratio:5/7) and (max-width:600px) {
@@ -589,6 +693,20 @@ h1 {
 	.tablebanking-image {
 		background-image: url(/img/tablebanking_hh_600.jpg)
 	}
+	
+	.spenden-image {
+	background-image: url(/img/Spenden_600.jpg)
+	}
+
+	.tumaini-image {
+		background-image: url(/img/tumaini_600.jpg)
+	}
+
+
+	.ElimuKwaWote-image {
+		background-image: url(/img/ElimuKwaWote_600.jpg)
+	}
+	
 }
 
 @media (max-aspect-ratio:5/7) and (max-width:400px) {
@@ -606,5 +724,18 @@ h1 {
 	
 	.tablebanking-image {
 		background-image: url(/img/tablebanking_hh_400.jpg)
+	}
+	
+	.spenden-image {
+	background-image: url(/img/Spenden_400.jpg)
+	}
+
+	.tumaini-image {
+		background-image: url(/img/tumaini_400.jpg)
+	}
+
+
+	.ElimuKwaWote-image {
+		background-image: url(/img/ElimuKwaWote_400.jpg)
 	}
 }
